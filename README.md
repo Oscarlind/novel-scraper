@@ -8,13 +8,18 @@ Short script that can scrape a novel of royalroad.com and convert it to an ebook
 
 Set following variable on line 46 to the novel you want to scrape & convert.
 
-`    chapter_url = 'https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301778/1-good-morning-brother'
+Example:
+
+`
+chapter_url = 'https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/301778/1-good-morning-brother'
 `
 
 Also set the following variable on line 100 to the directory you want the book in.
 
+Example: 
+
 `
-    output_dir = "/home/user/Documents/Books"
+output_dir = "/home/user/Documents/Books"
 `
 
 ## Usage
